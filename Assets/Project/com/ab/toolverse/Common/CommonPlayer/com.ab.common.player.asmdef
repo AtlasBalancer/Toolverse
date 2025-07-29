@@ -1,0 +1,17 @@
+{
+    "name": "com.ab.common.player",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d428fe0957a7a5e41a4e6e29b5754f70",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
