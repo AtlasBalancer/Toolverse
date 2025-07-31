@@ -101,6 +101,8 @@ InitTestScene*.unity*
 # External plugins
 /Assets/ExternalPlugins.meta
 /Assets/ExternalPlugins/**
+/Assets/SPUM/**
+/Assets/SPUM.meta
 
 # Rider files
 /.idea/**
