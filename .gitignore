@@ -106,3 +106,8 @@ InitTestScene*.unity*
 
 # Rider files
 /.idea/**
+
+# Excludes
+/Assets/Packages/**
+/Assets/Plugins/**
+
