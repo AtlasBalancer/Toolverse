@@ -1,3 +1,0 @@
-# CommonRenderer
-
-Module description here.

@@ -1,3 +1,0 @@
-# CommonInput
-
-Module description here.

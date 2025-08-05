@@ -1,3 +1,0 @@
-# CommonPlayer
-
-Module description here.
