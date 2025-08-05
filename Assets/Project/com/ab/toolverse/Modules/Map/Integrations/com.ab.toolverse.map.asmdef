@@ -1,0 +1,17 @@
+{
+    "name": "com.ab.toolverse.map",
+    "rootNamespace": "com.ab.toolverse.map",
+    "references": [
+        "com.ab.toolverse.map.domain"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

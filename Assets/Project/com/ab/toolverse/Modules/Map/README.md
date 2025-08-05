@@ -1,3 +1,3 @@
-# CommonMap
+# Map
 
 Module description here.
