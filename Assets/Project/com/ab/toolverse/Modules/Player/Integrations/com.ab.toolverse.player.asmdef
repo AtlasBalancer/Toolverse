@@ -1,0 +1,17 @@
+{
+    "name": "com.ab.toolverse.player",
+    "rootNamespace": "com.ab.toolverse.player",
+    "references": [
+        "com.ab.toolverse.player.domain"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
