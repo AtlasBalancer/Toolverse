@@ -1,0 +1,17 @@
+{
+    "name": "com.ab.toolverse.harvest",
+    "rootNamespace": "com.ab.toolverse.harvest",
+    "references": [
+        "com.ab.toolverse.harvest.domain"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
