@@ -2,9 +2,9 @@
     "name": "com.ab.toolverse.harvest",
     "rootNamespace": "com.ab.toolverse.harvest",
     "references": [
-        "com.ab.toolverse.harvest.domain"
+        "com.ab.toolverse.harvest.domain",
+        "com.ab.toolverse.sharedkernel"
     ],
-    "optionalUnityReferences": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

@@ -2,9 +2,11 @@
     "name": "com.ab.toolverse.player",
     "rootNamespace": "com.ab.toolverse.player",
     "references": [
-        "com.ab.toolverse.player.domain"
+        "com.ab.toolverse.player.domain",
+        "com.ab.toolverse.sharedkernel",
+        "UltimateJoystick",
+        "Unity.InputSystem"
     ],
-    "optionalUnityReferences": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
